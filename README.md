@@ -6,6 +6,16 @@ This is my project on the first day of lunar new year. The idea comes from [this
 
 ![Screenshot](screenshot.png)
 
+### How to run?
+
+- **Requirements:**
+    + Python 3
+    + OpenCV
+
+```
+pip install -r requirements.txt
+python main.py
+```
 ### Note
 
 This project is under development now.

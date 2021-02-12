@@ -1,0 +1,1 @@
+opencv-contrib==4.5.1.48
