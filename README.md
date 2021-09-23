@@ -4,7 +4,9 @@ This is my project on the first day of lunar new year. The idea comes from [this
 
 ### Screenshot
 
-![Screenshot](screenshot.png)
+(Click image for Youtube video)
+
+[![Screenshot](screenshot.png)](https://www.youtube.com/watch?v=H5MqDTnZL4E)
 
 ### How to run?
 
